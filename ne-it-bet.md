@@ -7,7 +7,7 @@
 5. baimė, vienam naudotis technologijomis
 6. nemokėjimas naudotis Google
 7. tinginystė
-8. nerealūs lukesčiai
+8. nerealūs lūkesčiai
 9. problemos neįsisavinimas
 10. nesugebėjimas naudotis įrankiu
 11. kompo perkrovimo klausimas
